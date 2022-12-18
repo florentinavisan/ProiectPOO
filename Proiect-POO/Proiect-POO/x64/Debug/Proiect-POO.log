@@ -1,0 +1,2 @@
+﻿Maincpp.obj : error LNK2005: "private: static int Bilet::nrBilete" (?nrBilete@Bilet@@0HA) already defined in Bilet.obj
+C:\Users\Flory\OneDrive\Desktop\Proiect-POO\x64\Debug\Proiect-POO.exe : fatal error LNK1169: one or more multiply defined symbols found
